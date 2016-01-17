@@ -1,0 +1,2 @@
+# treat gerber files as binary
+gerbers/* binary
